@@ -2,7 +2,11 @@ package Unidad4;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
-
+/**
+ * Programa que pide al usuario establecer si el cambio de moneda es correcto y luego pedir una cantidad y pasarla a euros o dolares
+ * @author alvaro
+ *
+ */
 public class MonedaLanzadorCambio {
 
 	public static void main(String[] args) {
